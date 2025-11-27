@@ -1,9 +1,12 @@
-# Praktikum 6                      
+# Praktikum 6  
 
-### NAMA  : TEDI MULYADI
-### NIM   : 312510163
-### KELAS : TI.25.A.2
-### TUGAS : PENGANTAR PEMROGRAMAN  
+|  |  |
+| -------- | --- |
+| **Nama** | Tedi Mulyadi |
+| **NIM** | 312510163 |
+| **Kelas** | TI.25.A2 |
+| **Mata Kuliah** | Pengantar Pemrograman |
+| **Dosen** | Agung Nugroho, S.Kom., M.Kom. |  
 
 ## Latihan 1  
 •   Ubah kode dibawah ini menjadi fungsi menggunakan  lambda  
